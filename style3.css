@@ -1,0 +1,52 @@
+<style>
+           body{margin:50px;}
+            a{
+                text-decoration: none;
+                color:black;
+                font-family:'Gowun Batang', serif;
+font-family:'Nanum Pen Script', cursive;
+}
+            
+            h1 {
+                text-align: center;
+                font-size: 50px;
+                border-bottom: 1px solid rgb(115, 206, 241);
+                margin:0;
+                padding: 15px;
+                font-family: 'Sedgwick Ave Display', cursive;
+                
+}
+        
+            ol {  border-right: 1px solid rgb(115, 206, 241);           
+           list-style: none;
+           width:100px;
+           margin:0px;
+           padding-right: 40px;
+           padding-top:20px;
+
+       }
+        li{margin-bottom:10px;}
+
+        #grid {
+            display: grid;
+            grid-template-columns: 150px 1fr;
+            
+
+        }
+        #apple { margin-left:40px;
+        padding-top:20px;
+    padding-left:10px;
+    font-family: 'Gowun Batang', serif;
+font-family: 'Nanum Pen Script', cursive;
+
+    }
+    
+    #saw
+ { color:rgb(63, 160, 224)}  
+
+ #page{
+   
+    font-size: 40px;
+ }
+ 
+ </style>
